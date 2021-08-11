@@ -1,0 +1,29 @@
+- Link tài nguyên học tập môn WADP : https://bit.ly/3s4KW6S
+- Trưởng lớp : Lê Ngân Tâm
+- recoder các buổi học : Lê Ngân Tâm
+- 2 kênh học online : 
+	- zoom     : cô 
+	- ggl meet : Tâm 
+- 2 kênh trao đổi học tập:
+	- fb group : 2011.M0 - thông báo / thi cữ/ thắc mắc
+	- github : chưa
+
+- Chia nhóm làm project (3-5 thành viên) - chưa
+
+
+- WebServer : XAMPP / WAMPP - 
+- Database : MySQL 
+- Môi trường phát triển ứng dụng PHP : IDE VsCode
+- Thư mục chứa các trang PHP nằm trong folder xampp/htdocs.
+	ví dụ: htdocs/2011.M0
+
+- Lệnh/hàm xuất 1 chuỗi lên màn hình trình duyệt: echo
+- hàm trả về chuỗi mô tả ngày hiện tại : gmdate()
+- hàm trả về chuỗi mô tả giờ hiện tại : date()
+- tên biến luôn bắt đầu bằng dấu $
+- chuỗi đặt trong cặp dấu '' hoặc ""
+- phép toán nối chuỗi là dấu .
+- hàm header(), với chuỗi tham số "location", cho phép điều hướng
+  đến trang web khác
+  
+
