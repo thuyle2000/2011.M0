@@ -25,5 +25,9 @@
 - phép toán nối chuỗi là dấu .
 - hàm header(), với chuỗi tham số "location", cho phép điều hướng
   đến trang web khác
+- các tính năng mới PHP7:
+	1. hàm chia nguyên : intdiv()
+	2. toán tử so sánh spaceship <=>
+	3. toán tử kiểm tra null ??
   
 
