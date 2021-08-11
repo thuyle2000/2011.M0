@@ -6,7 +6,7 @@
 	- ggl meet : Tâm 
 - 2 kênh trao đổi học tập:
 	- fb group : 2011.M0 - thông báo / thi cữ/ thắc mắc
-	- github : chưa
+	- github : https://github.com/thuyle2000/2011.M0
 
 - Chia nhóm làm project (3-5 thành viên) - chưa
 
