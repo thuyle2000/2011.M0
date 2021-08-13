@@ -29,5 +29,10 @@
 	1. hàm chia nguyên : intdiv()
 	2. toán tử so sánh spaceship <=>
 	3. toán tử kiểm tra null ??
-  
+
+
+https://www.youtube.com/watch?v=lWoegX2Rgdo
+https://www.youtube.com/watch?v=zHHcgTbG25Q
+
+
 
