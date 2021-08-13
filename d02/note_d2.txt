@@ -5,3 +5,4 @@
 - khai báo kiểu dữ liệu vô hướng (scalar)/ đơn trị (single) : int, float , boolean, string
   áp dụng cho khai báo tham số của chương trình hàm
 - khai báo uniform variable
+- toán tử use (~ import trong java): khai báo sử dụng namespace (~ package trong java) :  

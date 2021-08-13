@@ -26,13 +26,13 @@ error_reporting(0);
         function f1()
         {
             echo "ham thu nhat f1() <br>";
-            return f2;
+            return f2();
         }
 
         function f2()
         {
             echo "ham thu nhat f2() <br>";
-            return f3;
+            return f3();
         }
 
         function f3()
