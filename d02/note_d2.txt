@@ -1,0 +1,7 @@
+1. Các tính năng mới của PHP 7:
+- hàm chia nguyen intdiv()
+- toán tử so sánh spaceship <=> 
+- toán tử kiểm tra giá trị null ??
+- khai báo kiểu dữ liệu vô hướng (scalar)/ đơn trị (single) : int, float , boolean, string
+  áp dụng cho khai báo tham số của chương trình hàm
+- khai báo uniform variable
