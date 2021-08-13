@@ -6,3 +6,9 @@
   áp dụng cho khai báo tham số của chương trình hàm
 - khai báo uniform variable
 - toán tử use (~ import trong java): khai báo sử dụng namespace (~ package trong java) :  
+- một số lưu ý về cú pháp khi sử dụng class trong PHP7:
+    hàm dựng : function __construct($p1=.., $p2=..)
+    trong 1 class chỉ có duy nhất 1 hàm dựng.
+    toán tử truy xuất từng thành phần trong đối tượng: ->
+    từ khóa đại diện cho đối tượng hiện hành $this
+
