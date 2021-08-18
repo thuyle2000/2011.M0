@@ -15,7 +15,7 @@
 <body>
     <div class="container">
 
-        <form action="d02_login_get_process.php" method="GET">
+        <form action="d02_login_get_process.php" >
             <legend>Login</legend>
             <div class="form-group">
                 <label for="">username</label>

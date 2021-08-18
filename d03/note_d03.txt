@@ -1,0 +1,9 @@
+- các kiểu dữ liệu:
+    vô hướng (scalar type): int, float, bool, string 
+    phức tạp (compound): array, object 
+    đặc biệt (special): resource, null 
+    hằng dữ liệu (constant)
+- biến bộ nhớ có tên bắt đầu bằng dấu $
+- các phạm vi sử dụng biến 
+   cục bộ (local)
+   toàn cục (global) : trong chương trình hàm phải đánh dấu bằng từ khóa global
