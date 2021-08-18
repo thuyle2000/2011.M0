@@ -3,7 +3,9 @@
     phức tạp (compound): array, object 
     đặc biệt (special): resource, null 
     hằng dữ liệu (constant)
+
 - biến bộ nhớ có tên bắt đầu bằng dấu $
+
 - các phạm vi sử dụng biến 
     cục bộ (local) : 
         chỉ hiệu lực trong hàm hoặc khối lệnh khai báo 
@@ -15,3 +17,6 @@
         nhưng ko bị mất giá trị sau khi hàm chạy xong
         thường đc dùng như là các counter hoặc trong đệ quy
 
+- khai báo kiểu dữ liệu cho các tham số hình thức của chương trình hàm => giảm sự sai sót trong việc truyền giá trị của tham số cho hàm (declare scalar type)
+
+- lớp ẩn danh là lớp ko có tên, thường chỉ được sử dụng 1 lần.
