@@ -5,5 +5,13 @@
     hằng dữ liệu (constant)
 - biến bộ nhớ có tên bắt đầu bằng dấu $
 - các phạm vi sử dụng biến 
-   cục bộ (local)
-   toàn cục (global) : trong chương trình hàm phải đánh dấu bằng từ khóa global
+    cục bộ (local) : 
+        chỉ hiệu lực trong hàm hoặc khối lệnh khai báo 
+    toàn cục (global) : 
+        hiệu lực trong toàn chương trình
+        trong chương trình hàm biến phải được đánh dấu bằng từ khóa global
+    tỉnh (static):
+        chỉ hiệu lực trong hàm 
+        nhưng ko bị mất giá trị sau khi hàm chạy xong
+        thường đc dùng như là các counter hoặc trong đệ quy
+
