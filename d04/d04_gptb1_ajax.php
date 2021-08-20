@@ -74,15 +74,13 @@ if(isset($_GET["btOK"])){
                 e.preventDefault();
                 let a = $("#hsa").val();
                 let b = $("#hsb").val();
-                console.log("a = " + a);
-                console.log("b = " + b);
+
                 $.ajax({
                     type: "get",
                     url: "d04_gptb1_ajax.php",
                     data: {hsa:a, hsb:b,btOK:1 },
                     // dataType: "text",
                     success: function (response) {
-                        // alert(response);
                         console.log(response);
                         $("#ketqua").html(response);
                     }
