@@ -24,3 +24,10 @@ bieu dien nhi phan cua b = 0001 0110
               = 2^6+ 2^4+ 2^3 = 64 + 16 + 8 = 88
 
     b<<2 <=> b * 2^2 <=> 22 * 4 = 88
+
+
+
+- Lệnh kiểm tra điều kiện để rẽ nhánh chương trình:
+if(dk) { } 
+if(dk) { } else {}
+switch(exp){ case 1: .. break; case 2: .. break; default :.. break;}
