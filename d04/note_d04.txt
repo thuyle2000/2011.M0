@@ -1,0 +1,26 @@
+- phép toán:
+    1 ngôi: ++, -- , - , + , not (chỉ cần 1 số hạng. vd x++, not b ...) 
+    2 ngôi: = , + , - , * , / , %, < != > && ||
+    3 ngôi: phép toán điều kiện tam phân. vi du:
+            a = 10; b = 30;
+            c = (a>b) ? a : b; // c = max(a,b) 
+
+- phép toán luận lý nhị phân:
+phép toán luận lý (and, or, not, xor, shift left , shift right) được thực hiện trên các cặp bit nhị phân của 2 số nguyên.
+
+ví dụ: a = 19, b=22;
+bieu dien nhi phan cua a = 0001 0011
+bieu dien nhi phan cua b = 0001 0110
+              => a AND b = 0001 0010 = 2^4 + 2^1 = 16 + 2 = 18           
+
+            a = 0001 0011 
+    a>>2        --00 0100   (11)
+              = 2^2 = 4
+
+    a>>2 <=> a / 2^2 <=> 19 / 4 = 4 du (3)
+
+            b = 0001 0110
+    b<<2   (00) 0101 10-- 
+              = 2^6+ 2^4+ 2^3 = 64 + 16 + 8 = 88
+
+    b<<2 <=> b * 2^2 <=> 22 * 4 = 88
